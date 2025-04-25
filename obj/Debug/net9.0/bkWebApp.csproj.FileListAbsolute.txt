@@ -95,3 +95,4 @@ C:\Users\brook\bkWebApp\obj\Debug\net9.0\refint\bkWebApp.dll
 C:\Users\brook\bkWebApp\obj\Debug\net9.0\bkWebApp.pdb
 C:\Users\brook\bkWebApp\obj\Debug\net9.0\bkWebApp.genruntimeconfig.cache
 C:\Users\brook\bkWebApp\obj\Debug\net9.0\ref\bkWebApp.dll
+C:\Users\brook\bkWebApp\obj\Debug\net9.0\bkWebApp.sourcelink.json
